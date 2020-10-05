@@ -1,0 +1,3 @@
+Las consultas de "Instituciones financieras" son provocadas por bancos, tiendas departamentales, servicios de telecomunicaciones y demás compañías que pueden otorgar cualquier tipo de crédito. Estas instituciones **consultan tu historial cuando estás solicitando un crédito o servicio** para conocer tu comportamiento y saber si les vas a pagar.
+
+Este tipo de consultas **son las que más cuentan en tu calificación** y que debes mantener en un nivel bajo.

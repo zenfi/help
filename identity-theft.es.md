@@ -2,7 +2,7 @@ Si sospechas que fuiste víctima de un robo de identidad. Te recomendamos que to
 
 ### 1. Solicita un Reporte de Crédito Especial
 
-Descarga un "Reporte de Crédito Especial" desde el sitio de [Buró de Crédito](https://www.burodecredito.com.mx/bloqueo-info.html). En este reporte podrás revisar si tienes **créditos nuevos** y qué instituciones otorgaron esos créditos.
+Descarga un "Reporte de Crédito Especial" desde el sitio de [Buró de Crédito](https://www.burodecredito.com.mx/reporte-info.html). En este reporte podrás revisar si tienes **créditos nuevos** y qué instituciones otorgaron esos créditos.
 
 Este reporte es gratis cada 12 meses o con un costo de $35.60 mxn por consulta adicional.
 

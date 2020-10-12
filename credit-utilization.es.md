@@ -1,4 +1,4 @@
-La utilización de crédito es junto con "Puntualidad", **uno de los factores más importantes** que afectan tu calificación de Buró.
+La utilización de crédito es **uno de los factores más importantes** que afectan tu calificación de Buró.
 
 Es el porcentaje de **saldo que debes respecto al límite** que te autorizaron. Por ejemplo, si tienes una tarjeta de crédito con un límite de $10,000 y debes $8,000, esa cuenta tiene una utilización del 80%.
 

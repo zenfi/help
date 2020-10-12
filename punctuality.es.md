@@ -1,4 +1,4 @@
-La puntualidad es junto con "Uso de tus créditos", **uno de los factores más importantes** que afectan tu calificación de Buró.
+La puntualidad es **uno de los factores más importantes** que afectan tu calificación de Buró.
 
 Aún con pocos atrasos puede impactar significativamente tu calificación. Lo ideal es que al menos el 99% de tus pagos en todos tus créditos los realices antes de la fecha límite.
 

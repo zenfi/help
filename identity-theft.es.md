@@ -2,11 +2,13 @@ Si sospechas que fuiste víctima de un robo de identidad. Te recomendamos que to
 
 ### 1. Solicita un Reporte de Crédito Especial
 
-![Reporte de Crédito Especial](https://storage.googleapis.com/zenfi-assets/app/help/reporte-credito-especial.jpg)
-
 Descarga un "Reporte de Crédito Especial" desde el sitio de [Buró de Crédito](https://www.burodecredito.com.mx/bloqueo-info.html). En este reporte podrás revisar si tienes **créditos nuevos** y qué instituciones otorgaron esos créditos.
 
 Este reporte es gratis cada 12 meses o con un costo de $35.60 mxn por consulta adicional.
+
+Ejemplo:
+
+![Reporte de Crédito Especial](https://storage.googleapis.com/zenfi-assets/app/help/reporte-credito-especial.jpg)
 
 ### 2. (Opcionalmente) Bloquea tu información crediticia
 

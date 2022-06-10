@@ -22,4 +22,4 @@ Si encontraste créditos nuevos a tu nombre que no reconoces y ya sabes qué Ban
 
 ### 4. Denuncia ante la Condusef
 
-Realiza una denuncia ante la Condusef, ya sea [en línea](https://phpapps.condusef.gob.mx/ventanillaDigital/index.php) o llamando al [55 53 400 999](tel:5553400999). Esta denuncia servirá para que la Condusef te defienda ante las instituciones bancarias en caso de que se resistan a cancelar los cargos no reconocidos por robo de identidad.
+Realiza una denuncia ante la Condusef, ya sea [en línea](https://phpapps.condusef.gob.mx/ventanillaDigital/index.php) o llamando al +52-555-340-0999. Esta denuncia servirá para que la Condusef te defienda ante las instituciones bancarias en caso de que se resistan a cancelar los cargos no reconocidos por robo de identidad.

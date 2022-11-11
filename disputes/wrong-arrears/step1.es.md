@@ -1,12 +1,14 @@
 Si en tu reporte de buró tienes una cuenta con **atrasos mal reportados**, haz lo siguiente:
 
+![video](https://storage.googleapis.com/zenfi-assets/app/disputes/wrong-arrears.mp4)
+
 1. En el apartado donde se muestran las cuentas y créditos que tienes reportados ante buró, busca la cuenta que deseas reclamar y haz clic en la opción de **Modificar**.
 
-En primer lugar, aparecerá la información como está reportada actualmente. Haz un pequeño scroll para observar una sección en la que podrás editar la información.
+2. En primer lugar, aparecerá la información como está reportada actualmente. Haz un pequeño scroll para observar una sección en la que podrás editar la información.
 
-Ahí, revisa la fecha del último pago, el saldo actual, el saldo vencido (de ser el caso), el monto del último pago y el monto a pagar reportados. Si encuentras algún error, edítalo en el campo correspondiente.
+3. Ahí, revisa la fecha del último pago, el saldo actual, el saldo vencido (de ser el caso), el monto del último pago y el monto a pagar reportados. Si encuentras algún error, edítalo en el campo correspondiente.
 
-Después revisa la información mostrada en el apartado que dice **Histórico de Pagos - Clave de Observación**, si uno o varios de tus pagos tienen atrasos mal reportados, edítalos con ayuda de esta tabla escribiendo la clave de observación correspondiente al estatus real de la cuenta:
+4. Después revisa la información mostrada en el apartado que dice **Histórico de Pagos - Clave de Observación**, si uno o varios de tus pagos tienen atrasos mal reportados, edítalos con ayuda de esta tabla escribiendo la clave de observación correspondiente al estatus real de la cuenta:
 
 | Clave de observación|Significado de clave de observación|
 | ------------------- | --------------------------------- |

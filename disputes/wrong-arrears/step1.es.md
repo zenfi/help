@@ -10,16 +10,7 @@ Si en tu reporte de buró tienes una cuenta con **atrasos mal reportados**, haz 
 
 4. Después revisa la información mostrada en el apartado que dice **Histórico de Pagos - Clave de Observación**, si uno o varios de tus pagos tienen atrasos mal reportados, edítalos con ayuda de esta tabla escribiendo la clave de observación correspondiente al estatus real de la cuenta:
 
-| **Clave** | **Significado de clave de observación** |
-| ------------------- | --------------------------------- |
-| 1 | Cuenta al corriente. |
-| 2 | Cuenta con atraso de 1 a 29 días. |
-| 3 | Cuenta con atraso de 30 a 59 días. |
-| 4 | Cuenta con atraso de 60 a 89 días. |
-| 5 | Cuenta con atraso de 90 a 119 días. |
-| 6 | Cuenta con atraso de 120 a 149 días. |
-| 7 | Cuenta con atraso de 150 días hasta 12 meses. |
-| 9 | Puede significar:\n* Cuenta con atraso de más de 12 meses.\n* Cuenta con deuda parcial o total sin recuperar.\n* Fraude cometido por el consumidor. |
+![mops](https://user-images.githubusercontent.com/1031639/201444544-9f30c418-1aac-4c08-b6b9-e033eed5d30d.png)
 
 _Fuente: Buró de Crédito._
 

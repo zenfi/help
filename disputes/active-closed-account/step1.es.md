@@ -1,5 +1,7 @@
 Si en tu reporte observas que una cuenta previamente **CERRADA** aparece como **ACTIVA**, haz lo siguiente:
 
+![video](https://storage.googleapis.com/zenfi-assets/app/disputes/active-accounts.mp4)
+
 1. En el apartado donde se muestran las cuentas y créditos que tienes reportados ante buró, busca la cuenta que deseas reclamar y haz clic en la opción de **Modificar**.
 
 2. En primer lugar, aparecerá la información como está reportada actualmente. Haz un pequeño scroll para observar una sección en la que podrás editar la información.

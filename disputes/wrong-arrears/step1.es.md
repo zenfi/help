@@ -10,7 +10,7 @@ Si en tu reporte de buró tienes una cuenta con **atrasos mal reportados**, haz 
 
 4. Después revisa la información mostrada en el apartado que dice **Histórico de Pagos - Clave de Observación**, si uno o varios de tus pagos tienen atrasos mal reportados, edítalos con ayuda de esta tabla escribiendo la clave de observación correspondiente al estatus real de la cuenta:
 
-![mops](https://user-images.githubusercontent.com/1031639/201716401-bde3575b-4a01-43e4-ba8f-542b8b7e4260.png)
+![mops](https://user-images.githubusercontent.com/1031639/201786281-595095d7-e812-40a1-85df-25c823a86c27.png)
 
 _Fuente: Buró de Crédito._
 

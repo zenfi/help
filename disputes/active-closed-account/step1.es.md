@@ -10,28 +10,7 @@ Si en tu reporte observas que una cuenta previamente **CERRADA** aparece como **
 
 4. Después revisa la información mostrada en el apartado que dice **Histórico de Pagos - Clave de Observación**, si uno o varios de tus pagos tienen atrasos mal reportados, edítalos con ayuda de esta tabla escribiendo la clave de observación correspondiente al estatus real de la cuenta:
 
-
-| Clave de observación|Significado de clave de observación|
-| ------------------- | --------------------------------- |
-| 1 | Cuenta al corriente. |
-| 2 | Cuenta con atraso de 1 a 29 días. |
-
-3
-Cuenta con atraso de 30 a 59 días.
-4
-Cuenta con atraso de 60 a 89 días.
-5
-Cuenta con atraso de 90 a 119 días.
-6
-Cuenta con atraso de 120 a 149 días.
-7
-Cuenta con atraso de 150 días hasta 12 meses.
-9
-Puede significar:
-
-Cuenta con atraso de más de 12 meses.
-Cuenta con deuda parcial o total sin recuperar.
-Fraude cometido por el consumidor.
+![mops](https://user-images.githubusercontent.com/1031639/201716401-bde3575b-4a01-43e4-ba8f-542b8b7e4260.png)
 
 _Fuente: Buró de Crédito._
 

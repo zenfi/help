@@ -1,6 +1,6 @@
 Si en tu reporte de buró aparece una cuenta que no reconoces, haz lo siguiente:
 
-![delete-account](https://user-images.githubusercontent.com/1031639/202325805-bb111d38-183c-4f76-b636-d61d8a9fad32.jpg)
+![delete-account](https://user-images.githubusercontent.com/1031639/202326048-f07e86ef-24ef-4812-8a5a-3998c1d85bad.jpg)
 
 1. En el apartado donde se muestran las cuentas y créditos que tienes reportados ante buró, busca la cuenta que deseas reclamar y haz clic en la opción de **Eliminar**.
 

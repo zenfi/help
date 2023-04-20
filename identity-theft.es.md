@@ -1,10 +1,10 @@
-Si sospechas que fuiste víctima de un robo de identidad. Te recomendamos que tomes las siguientes acciones:
+Si sospechas que fuiste víctima de un robo de identidad, te recomendamos que tomes las siguientes acciones:
 
 ### 1. Solicita un Reporte de Crédito Especial
 
-Descarga un "Reporte de Crédito Especial" desde el sitio de [Buró de Crédito](https://www.burodecredito.com.mx/reporte-info.html). En este reporte podrás revisar si tienes **créditos nuevos** y qué instituciones otorgaron esos créditos.
+Descárgalo desde el sitio de [Buró de Crédito](https://www.burodecredito.com.mx/reporte-info.html). En este reporte podrás revisar si tienes **créditos nuevos** y qué instituciones los otorgaron.
 
-Este reporte es gratis cada 12 meses o con un costo de $35.60 mxn por consulta adicional.
+Este reporte es gratis una vez cada 12 meses y las consultas adicionales tienen un costo de $35.60 mxn cada una.
 
 Ejemplo:
 
@@ -12,7 +12,7 @@ Ejemplo:
 
 ### 2. (Opcionalmente) Bloquea tu información crediticia
 
-Puedes bloquear tu reporte de Buró para que nadie lo pueda consultar sin tu autorización y evitar que los criminales tramiten nuevos crédito a tu nombre.
+Puedes bloquear tu reporte de Buró para que nadie lo pueda consultar y evitar que los criminales tramiten nuevos créditos a tu nombre.
 
 Este bloqueo se puede contratar desde el sitio de [Buró de Crédito](https://www.burodecredito.com.mx/bloqueo-info.html).
 

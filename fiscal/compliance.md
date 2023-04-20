@@ -1,4 +1,4 @@
-La opinión de cumplimiento es un _"resumen"_ en una palabra de tu situación fiscal.
+La opinión de cumplimiento es un _"resumen"_ de tu situación fiscal.
 
 Una opinión **positiva** indica que estás cumpliendo correctamente con tus obligaciones fiscales.
 

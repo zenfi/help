@@ -1,0 +1,1 @@
+Las partes acuerdan que el Cliente podrá expresar su consentimiento respecto al presente (contrato/términos y condiciones, convenio, etc.), así como tener acceso a los servicios ofrecidos por **Cero Deuda S.A.P.I. de C.V.** mediante medios electrónicos, como lo es el Número de Identificación Personal o NIP.

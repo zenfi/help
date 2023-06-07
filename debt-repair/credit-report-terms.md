@@ -1,17 +1,4 @@
-Autorizo a: **Cero Deuda S.A.PI. de C.V. para que solicite a Trans Unión de México, S.A.
-S.I.C**, la generación de mi Reporte de Crédito Especial, por única ocasión, a fin de conocer
-la condición en que se encuentra mi historial crediticio, de acuerdo con lo establecido en
-el artículo 40 de la Ley para Regular a las Sociedades de Información Crediticia y la regla
-quinta de la Reglas Generales a las que se deberán sujetar las operaciones y actividades
-de las Sociedades de Información Crediticia y sus usuarios. Así mismo declaro que
-conozco la naturaleza y alcance de la información que se solicitará. Bajo protesta de decir
-verdad manifesto que los datos que menciono en esta solicitud son verídicos. Autorizo a:
-Cero Deuda S.A.PI. de CV. para que lleve a cabo Investigaciones, sobre mi
-comportamiento Crediticio en SIC que estime convenient. Conozco la naturaleza y
-alcance de la información que se solicitará, del uso que se le dará y que se podrá realizar
-consultas periódicas de mi historial crediticio, consiento que esta autorización tenga
-vigencia de 3 años contados a partir de hoy, y en su caso mientras mantengamos relación
-jurídica.
+Autorizo a: **Cero Deuda S.A.PI. de C.V. para que solicite a Trans Unión de México, S.A. S.I.C**, la generación de mi Reporte de Crédito Especial, por única ocasión, a fin de conocer la condición en que se encuentra mi historial crediticio, de acuerdo con lo establecido en el artículo 40 de la Ley para Regular a las Sociedades de Información Crediticia y la regla quinta de la Reglas Generales a las que se deberán sujetar las operaciones y actividades de las Sociedades de Información Crediticia y sus usuarios. Así mismo declaro que conozco la naturaleza y alcance de la información que se solicitará. Bajo protesta de decir verdad manifesto que los datos que menciono en esta solicitud son verídicos. Autorizo a: Cero Deuda S.A.PI. de CV. para que lleve a cabo Investigaciones, sobre mi comportamiento Crediticio en SIC que estime convenient. Conozco la naturaleza y alcance de la información que se solicitará, del uso que se le dará y que se podrá realizar consultas periódicas de mi historial crediticio, consiento que esta autorización tenga vigencia de 3 años contados a partir de hoy, y en su caso mientras mantengamos relación jurídica.
 
 ### Nota
 

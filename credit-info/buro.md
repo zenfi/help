@@ -1,1 +1,3 @@
-Buró de Crédito® es la "Socided de Información Crediticia" más utilizada en México y es la principal fuente de información en Zenfi.
+Buró de Crédito® es la "Sociedad de Información Crediticia" más utilizada en México y es la principal fuente de información en Zenfi.
+
+Los bancos más grandes reportan a Buró®. Ej. Banamex, Santander, BBVA...

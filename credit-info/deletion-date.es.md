@@ -1,3 +1,3 @@
-Las cuentas viejas pueden borrase de tu reporte de crédito cuando cumplen con ciertas condiciones (fecha de apertura, atrasos en tus pagos...).
+**Importante:** Esta fecha es aproximada y puede ser diferente a la que indica Buró de Crédito. Asimismo, la eliminación de este registro depende de Buró de Crédito, no de Zenfi.
 
-Si tu cuenta tenía atrasos y se borra, no significa que la deuda haya sido saldada sino que por ley ya no es necesario que aparezca en tu reporte.
+Considera que si tienes adeudos, éstos permanecerán en los registros de la institución a la que le debes aunque la cuenta ya no aparezca en tu reporte de crédito.

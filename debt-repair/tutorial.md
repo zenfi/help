@@ -25,6 +25,6 @@ La reparación de deudas es una buena opción cuando:
 
 ### ¿Cómo puedes hacerlo?
 
-A través de instituciones conocidas como _reparadoras de crédito_, las cuales se encargan de diseñar un programa de ahorro acorde a tus posibilidades, así como de negociar el mejor descuento posible.
+A través de instituciones conocidas como **reparadoras de crédito**, las cuales se encargan de diseñar un programa de ahorro acorde a tus posibilidades, así como de negociar el mejor descuento posible.
 
-En Zenfi encontrarás _reparadoras de deuda_ **de confianza** que seguro podrán ayudarte.
+En Zenfi encontrarás reparadoras de deuda **de confianza** que seguro podrán ayudarte.

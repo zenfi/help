@@ -8,9 +8,9 @@ Es una solución que te permite liquidar deudas con descuentos de hasta el 70% m
 ### ¿Cuáles son sus beneficios?
 
 * Puedes ahorrarte **hasta el 70%** de lo que debes.
-* Evitas que los intereses sigan acumulándose.
-* Dejas de dañar tu calificación e historial.
-* No más llamadas de cobranza.
+* Asesoría legal y financiera en todo momento.
+* Puedes mejorar gradualmente tu calificación crediticia.
+* Despreocúpate de las llamadas de cobranza.
 
 
 ### ¿Para quién es?
